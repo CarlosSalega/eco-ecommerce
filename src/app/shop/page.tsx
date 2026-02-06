@@ -131,7 +131,7 @@ export default function ShopPage() {
           {/* Sidebar Filters */}
           <div className="hidden lg:block">
             <aside className="w-full shrink-0 md:w-64">
-              <div className="bg-card border-border rounded-lg border px-6 py-2">
+              <div className="bg-card border-border rounded-lg border px-6 py-8">
                 <h3 className="mb-4 font-semibold">Categorías</h3>
                 <div className="space-y-2">
                   {[
